@@ -9,4 +9,4 @@ Powered by PHPofBy.
 | Version                    | Place                                                                           | Event link | Date              |
 | -------------------------- | ------------------------------------------------------------------------------- |------------| ----------------- |
 | #1                         | [Бар CRAFTMAN](https://craftmanbar.by/)                                         | [Facebook](https://www.facebook.com/events/647660899036233/)           | 27 June 2019  |
-| #2                         | [Coming soon]                                                                   |   TBD         |  August 2019  |
+| #2                         | [Бар CRAFTMAN](https://craftmanbar.by/)                                                                   |   [Facebook](https://www.facebook.com/events/517110819106958/)         |  26 September 2019  |
